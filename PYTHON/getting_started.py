@@ -1,0 +1,24 @@
+print("Hello python welcome to getting started")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
